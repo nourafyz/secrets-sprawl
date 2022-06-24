@@ -1,4 +1,4 @@
-# secrets_sprawl
+# secrets-sprawl
 
 this project to test different secrets scanners
 
